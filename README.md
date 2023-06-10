@@ -1,2 +1,2 @@
 # NeRF
-Pytorch implmentation of https://www.matthewtancik.com/nerf
+WIP : Pytorch implmentation of https://www.matthewtancik.com/nerf
